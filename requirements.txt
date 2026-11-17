@@ -1,0 +1,15 @@
+mistralai
+langchain
+langgraph
+langchain-core
+langchain-community
+python-dotenv
+pydantic
+fastapi
+uvicorn
+pandas
+numpy
+yfinance
+duckduckgo-search
+httpx
+langchain_mistralai
